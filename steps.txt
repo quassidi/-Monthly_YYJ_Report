@@ -1,2 +1,0 @@
-1. merge all csv to one file 
-2. drop first column 
