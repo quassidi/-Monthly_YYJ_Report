@@ -1,0 +1,7 @@
+*.csv
+*.png
+*.log
+*.pdf
+.history/
+*.txt
+html_report_jinja.html

@@ -19,6 +19,19 @@ body {
   height: 620px;
   width: 620px;
 }
+.messages{
+  height: 347px;
+  width: 891px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+.chatters{
+  height: 347px;
+  width: 891px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
 h1 { 
   color: #ffffffd7; 
   font-family: 'Roboto', sans-serif;
@@ -66,10 +79,10 @@ h3 {
   margin-left: 20px;
 }
 .containerh {
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 .containertopchatters {
-  padding-top: 5px;
+  padding-top: -5px;
 }
 .MostUsedEmote{
   float: left;
@@ -93,14 +106,6 @@ h3 {
   font-weight: 420; 
   font-size: 14px;
   margin: 0;
-}
-.more_data{
-  width: 400px;
-}
-.Moredatatitle
-{
-  float: left;
-  margin-bottom: 10px;
 }
 table 			      { 
   border-collapse: collapse; 
@@ -139,4 +144,9 @@ tr:nth-child(even) {
   font-size: 10px;
   margin-left: 10px;
   color: rgba(255, 255, 255, 0.562);
+}
+.moreplots
+{ 
+  margin-left: 5px;
+  float: left;
 }
