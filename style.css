@@ -32,6 +32,19 @@ body {
   margin-top: 10px;
   margin-left: 50px;
 }
+
+.heatmap_1{
+  height: 258px;
+  width: 446px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.heatmap_2{
+  height: 258px;
+  width: 446px;
+  margin-top: 20px;
+  margin-right: 70px;
+}
 h1 { 
   color: #ffffffd7; 
   font-family: 'Roboto', sans-serif;
@@ -149,4 +162,14 @@ tr:nth-child(even) {
 { 
   margin-left: 5px;
   float: left;
+  margin-bottom: 20px;
+}
+.heatmaps{
+  margin-top: 20px;
+}
+.left_heatmap{
+  float: left;
+}
+.right_heatmap{
+  float: right;
 }
